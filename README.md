@@ -10,7 +10,7 @@ Finance student at the Zicklin School of Business, Baruch College (BBA in Financ
 
 | Project | What it shows | Status |
 | --- | --- | --- |
-| [Corporate Credit Analysis & Underwriting Model](https://github.com/Vanuja-E/corporate-credit-analysis) | Credit ratios from SEC EDGAR 10-K data, a transparent scorecard, and term loan sizing and covenant tests | In progress |
+| [Corporate Credit Analysis & Underwriting Model](https://github.com/Vanuja-E/corporate-credit-analysis) | Credit ratios from SEC EDGAR 10-K data for five issuers, a published scorecard, and DSCR-based term loan sizing with covenant tests | Complete |
 | Three-Statement Model | Linked income statement, balance sheet, and cash flow built from company financials | Planned |
 | Commercial Loan Underwriting Calculator | Repayment capacity, loan sizing, and basic structure checks for a commercial credit | Planned |
 | Financial Statement Dashboard (Streamlit) | Filing-based statements and credit ratios in one view | Planned |
